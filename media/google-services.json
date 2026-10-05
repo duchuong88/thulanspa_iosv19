@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "779796017496",
+    "firebase_url": "https://thu-lan-spa-default-rtdb.firebaseio.com",
+    "project_id": "thu-lan-spa",
+    "storage_bucket": "thu-lan-spa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779796017496:android:5b2241c55920ec743f352d",
+        "android_client_info": {
+          "package_name": "vn.thulanspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cw4OjAQLo2FoOba_60hIQ47e2IIvsWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
